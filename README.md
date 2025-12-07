@@ -133,7 +133,7 @@ Open: `http://localhost:5173`
 
 ## 👨‍💻 Author
 
-**Mihirkant Pradhan**
+**Aayush Thakur**
 B.Tech CSE, SRM University
 ---
 
@@ -148,3 +148,4 @@ Pull requests are welcome. For major changes, create an issue first to propose m
 This project is open-source and available under the **MIT License**.
 
 ---
+
